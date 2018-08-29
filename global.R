@@ -11,7 +11,6 @@ suppressMessages(library(xts))
 suppressMessages(library(stringr))
 suppressMessages(library(leaflet))
 suppressMessages(library(grid))
-suppressMessages(library(berryFunctions))
 ##
 ## Set global env values
 setGlobalValues <- function(){
