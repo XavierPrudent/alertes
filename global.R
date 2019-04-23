@@ -32,7 +32,7 @@ setGlobalValues <- function(){
                         "Météo", "Maintenance",
                         "Travaux", "Police",
                         "Urgence médicale")
-  phraseCauses <- c("de grèves", "de manifestations",
+  phraseCauses <- c("de problèmes techniques","de grèves", "de manifestations",
                                "d'accident", "de vacances",
                                "de la situation météo", "de maintenance",
                                "de travaux", "d'activités policières",
